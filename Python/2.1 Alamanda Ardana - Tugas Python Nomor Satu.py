@@ -1,0 +1,6 @@
+nama=input("Masukkan Nama Anda      :   ")
+kelas=input("Input Nama Kelas       :   ")
+jurusan=input("Input Nama Jurusan   :   ")
+print("Nama     :   ",nama)
+print("Kelas    :   ",kelas)
+print("Jurusan  :   ",jurusan)
